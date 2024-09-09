@@ -1,5 +1,6 @@
 # 💫 About Me:
-Currently creating a fitness app called Kisig. Learning more about state management, and how it works in React><br>
+Currently creating a fitness app called Kisig. Learning more about state management, and how it works in React. 
+Visit my portfolio: https://styhrd.onrender.com/<br>
 
 
 ## 🌐 Socials:
